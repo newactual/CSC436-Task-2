@@ -13,6 +13,7 @@ document.querySelector('#app').innerHTML = `
 </div>
 
 <button id="add" class="btn btn-primary mb-3">Add</button>
+<button id="multiply" class="btn btn-secondary mb-3">Multiply</button>
 <div class="mt-5 rounded border p-5 bg-secondary text-white">
       Result: <div id="result">
 </div>
